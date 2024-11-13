@@ -1,4 +1,5 @@
 {
+    "$id": "https://schemas.unify101.com/intelligence-ai/product-entry/v1.json",
     "$schema": "http://json-schema.org/draft/2020-12/schema",
     "title": "A Intelligence.AI product entry",
     "type":"object",
